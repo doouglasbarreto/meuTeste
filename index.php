@@ -18,8 +18,13 @@
     <p>
         <?php
             echo "Olá Mundo!";
+
         ?>
     </p>
-    
+    <p>
+        <?php
+            echo "Teste secret";
+
+        ?>
 </body>
 </html>
