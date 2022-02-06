@@ -13,6 +13,12 @@
     <title>Document</title>
 </head>
 <body>
+    <h1>Olá Mundo!</h1>
+    <p>
+        <?php
+            echo "Olá Mundo!";
+        ?>
+    </p>
     
 </body>
 </html>
